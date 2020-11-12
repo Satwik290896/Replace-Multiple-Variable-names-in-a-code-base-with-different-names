@@ -24,4 +24,4 @@ Warnings to take note of in using the script:
 -	The code might change the definitions of the MACROs as well. 
 If u want old MACRO definition to be present, please do manually. The same will apply to API/functionality names as well
 
-Make Sure to allot some memory space in the "<Location of code_base_folder>  "
+Make Sure to allot some memory space in the "<Location of code_base_folder>"
