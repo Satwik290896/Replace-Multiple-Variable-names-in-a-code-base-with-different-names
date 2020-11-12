@@ -8,7 +8,7 @@ Command line format:
 <Old_MACRO_1_name> <new_MACRO_1_name> <Old_MACRO_2_name> <new_MACRO_2_name> ……”
 
 //Command line Arguments
-1.	<Location of code_base_folder>   
+1.	"Location of code_base_folder" 
 2.	<Subfolder_name_that need_cleanup>  - Module name should be the “sub folder name” in the location given
 3.	<number_of_Replacements (integer)>  - Integer needs to be give 
 4.	<Old_MACRO_1_name>    - Replacement 1
