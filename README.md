@@ -3,7 +3,7 @@
 A python script which would replace “MACROs/API_names/any other functionality names” with “the given/required names”.
 This can reduce any effort required and can be replaced with a quick short run
 
-<Command line format>
+Command line format:
    “python Modify_MACROs.py <Location of code_base_folder> <Subfolder_name_that need_cleanup> <number_of_Replacements (integer)>
 <Old_MACRO_1_name> <new_MACRO_1_name> <Old_MACRO_2_name> <new_MACRO_2_name> ……”
 
