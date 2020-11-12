@@ -1,4 +1,4 @@
-# Replace-Multiple-Variable-names-in-a-code-base-with-different-names
+# Python: Replace-Multiple-Variable-names-in-a-code-base-with-different-names
 
 A python script which would replace “MACROs/API_names/any other functionality names” with “the given/required names”.
 This can reduce any effort required and can be replaced with a quick short run
